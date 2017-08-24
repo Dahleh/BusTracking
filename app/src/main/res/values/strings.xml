@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">busTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="gps_network_not_enabled">GPS is disabled</string>
+    <string name="open_location_settings">Enable it</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
